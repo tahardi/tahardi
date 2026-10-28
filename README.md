@@ -1,16 +1,13 @@
-## Hi there 👋
+# Taylor Hardin
 
-<!--
-**tahardi/tahardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer working on verifiable, confidential computation: TEEs, zkVMs, and blockchains. I'm interested in how attestation and zero-knowledge proofs let people trust code they can't see, and lately in how to give AI coding agents real work without giving them the keys to everything.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Bearclave](https://github.com/tahardi/bearclave): a toolkit and set of guides for building apps in Trusted Execution Environments (AWS Nitro Enclaves, AMD SEV-SNP, Intel TDX), plus experiments verifying their attestations in zkVMs and on Ethereum.
+- [Maple](https://github.com/tahardi/maple): a personal IDE for running Jira cards with Claude, from planning through code review.
+- [Xena](https://github.com/tahardi/xena): a disposable, encrypted VM for agentic coding, behind a network wall the desktop enforces.
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/taylorahardin/)
