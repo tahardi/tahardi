@@ -1,11 +1,13 @@
 # Taylor Hardin
 
-I build tools for verifiable, confidential computation: TEEs, zkVMs, and blockchains.
+I'm a software engineer working on verifiable, confidential computation: TEEs, zkVMs, and blockchains. I'm interested in how attestation and zero-knowledge proofs let people trust code they can't see, and lately in how to give AI coding agents real work without giving them the keys to everything.
 
-## Bearclave
+## Projects
 
-- [bearclave](https://github.com/tahardi/bearclave): Go modules and guides for building TEE apps on AWS Nitro Enclaves, AMD SEV-SNP, and Intel TDX.
-- [bearclave-examples](https://github.com/tahardi/bearclave-examples): step-by-step TEE apps, from "Hello, World" to attested HTTPS and script runtimes.
-- [bearclave-zkvm](https://github.com/tahardi/bearclave-zkvm): exploring how to verify TEE attestations inside a zkVM.
-- [bearclave-contracts](https://github.com/tahardi/bearclave-contracts): exploring Ethereum contracts, starting with on-chain checks of zkVM proofs.
-- [bearclave-tf](https://github.com/tahardi/bearclave-tf): Terraform for the cloud TEE platforms Bearclave runs on.
+- [Bearclave](https://github.com/tahardi/bearclave): a toolkit and set of guides for building apps in Trusted Execution Environments (AWS Nitro Enclaves, AMD SEV-SNP, Intel TDX), plus experiments verifying their attestations in zkVMs and on Ethereum.
+- [Maple](https://github.com/tahardi/maple): a personal IDE for running Jira cards with Claude, from planning through code review.
+- [Xena](https://github.com/tahardi/xena): a disposable, encrypted VM for agentic coding, behind a network wall the desktop enforces.
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/taylorahardin/)
